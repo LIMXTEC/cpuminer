@@ -1,0 +1,2 @@
+CPUMiner-Xevan
+==============
